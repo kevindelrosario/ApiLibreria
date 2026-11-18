@@ -1,0 +1,162 @@
+[
+  {
+    "titulo": "Las 3 sombras",
+    "autor": "Francisco",
+    "descripcion": "Libro de prueba uno",
+    "anoPublicacion": 1999,
+    "cantidadDisponible": 100,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "descripcion": "Una historia sobre la amistad, el amor y la importancia de ver más allá de las apariencias.",
+    "anoPublicacion": 1943,
+    "cantidadDisponible": 25,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "descripcion": "Historia de varias generaciones de la familia Buendía en Macondo.",
+    "anoPublicacion": 1967,
+    "cantidadDisponible": 15,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "descripcion": "Novela distópica sobre una sociedad controlada por un gobierno totalitario.",
+    "anoPublicacion": 1949,
+    "cantidadDisponible": 8,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "descripcion": "Las aventuras de un hidalgo que decide convertirse en caballero andante.",
+    "anoPublicacion": 1605,
+    "cantidadDisponible": 0,
+    "estadoLibro": "NO_DISPONIBLE"
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autor": "J.K. Rowling",
+    "descripcion": "Un joven descubre que es mago y comienza sus estudios en Hogwarts.",
+    "anoPublicacion": 1997,
+    "cantidadDisponible": 30,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "El señor de los anillos",
+    "autor": "J.R.R. Tolkien",
+    "descripcion": "Una aventura fantástica centrada en un poderoso anillo y su destrucción.",
+    "anoPublicacion": 1954,
+    "cantidadDisponible": 12,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "Crónica de una muerte anunciada",
+    "autor": "Gabriel García Márquez",
+    "descripcion": "Novela que reconstruye las circunstancias que llevaron a un asesinato anunciado.",
+    "anoPublicacion": 1981,
+    "cantidadDisponible": 5,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "descripcion": "Un joven descubre un misterioso libro que cambiará su vida.",
+    "anoPublicacion": 2001,
+    "cantidadDisponible": 18,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "descripcion": "Una sociedad donde los libros están prohibidos y son destruidos.",
+    "anoPublicacion": 1953,
+    "cantidadDisponible": 0,
+    "estadoLibro": "NO_DISPONIBLE"
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "descripcion": "Historia de amor, sociedad y diferencias de clase en la Inglaterra del siglo XIX.",
+    "anoPublicacion": 1813,
+    "cantidadDisponible": 10,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "La metamorfosis",
+    "autor": "Franz Kafka",
+    "descripcion": "Un hombre despierta convertido inesperadamente en un extraño insecto.",
+    "anoPublicacion": 1915,
+    "cantidadDisponible": 7,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "El código Da Vinci",
+    "autor": "Dan Brown",
+    "descripcion": "Misterio y aventuras alrededor de antiguos secretos y símbolos.",
+    "anoPublicacion": 2003,
+    "cantidadDisponible": 22,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "La isla del tesoro",
+    "autor": "Robert Louis Stevenson",
+    "descripcion": "Un joven emprende una aventura en busca de un legendario tesoro pirata.",
+    "anoPublicacion": 1883,
+    "cantidadDisponible": 3,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "descripcion": "Clásica historia de terror protagonizada por el famoso conde vampiro.",
+    "anoPublicacion": 1897,
+    "cantidadDisponible": 0,
+    "estadoLibro": "NO_DISPONIBLE"
+  },
+  {
+    "titulo": "El alquimista",
+    "autor": "Paulo Coelho",
+    "descripcion": "Un joven pastor emprende un viaje en busca de un tesoro y descubre su propósito.",
+    "anoPublicacion": 1988,
+    "cantidadDisponible": 14,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "Los miserables",
+    "autor": "Victor Hugo",
+    "descripcion": "Historia de redención, justicia y desigualdad en la Francia del siglo XIX.",
+    "anoPublicacion": 1862,
+    "cantidadDisponible": 6,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "El hobbit",
+    "autor": "J.R.R. Tolkien",
+    "descripcion": "Un hobbit emprende una aventura junto a un grupo de enanos.",
+    "anoPublicacion": 1937,
+    "cantidadDisponible": 20,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "descripcion": "Una historia sobre la justicia, el racismo y la infancia en Estados Unidos.",
+    "anoPublicacion": 1960,
+    "cantidadDisponible": 9,
+    "estadoLibro": "DISPONIBLE"
+  },
+  {
+    "titulo": "El nombre del viento",
+    "autor": "Patrick Rothfuss",
+    "descripcion": "Un joven cuenta la historia de su vida y de cómo se convirtió en una figura legendaria.",
+    "anoPublicacion": 2007,
+    "cantidadDisponible": 0,
+    "estadoLibro": "NO_DISPONIBLE"
+  }
+]
